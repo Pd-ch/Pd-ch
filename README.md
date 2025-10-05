@@ -29,6 +29,7 @@ OS      : Debian (testing) Linux x86_64
 Kernel  : 6.16.3+deb14-amd64
 Shell   : zsh + tmux
 Editor  : VS Code (Remote-SSH)
+```
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
