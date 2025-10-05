@@ -2,11 +2,6 @@
 
 # Pd-ch · 在 0 和 1 之间
 
-&lt;!--START_SECTION:waka--&gt;
-&lt;!--END_SECTION:waka--&gt;
-
----
-
 ## 关于我
 - 🖥 语言：C / C++ / Qt / Python
 - 🧩 领域：Artificial Intelligence / Machine Learning  
@@ -34,3 +29,6 @@ OS      : Debian (testing) Linux x86_64
 Kernel  : 6.16.3+deb14-amd64
 Shell   : zsh + tmux
 Editor  : VS Code (Remote-SSH)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
