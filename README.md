@@ -34,7 +34,7 @@ Editor  : VS Code (Remote-SSH)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-70-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-89-blue)
 
 **我是夜猫子 🦉** 
 
@@ -63,30 +63,32 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-MDX                      37 mins             █████████████████████████   98.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+MDX                      37 mins             ██████████████████████░░░   86.06 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+CMake                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 编辑器: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Pd-ch.github.io          38 mins             █████████████████████████   99.84 % 
-newwork                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Pd-ch.github.io          38 mins             ██████████████████████░░░   87.02 % 
+newwork                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+namida                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 操作系统: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -96,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2025 08:14:07 UTC
+ Last Updated on 07/10/2025 20:30:39 UTC
 <!--END_SECTION:waka-->
