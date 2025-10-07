@@ -36,18 +36,6 @@ Editor  : VS Code (Remote-SSH)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-70-blue)
 
-**🐱 我的 GitHub 数据** 
-
-> 📦  使用了 ? GitHub 存储空间 
- > 
-> 🏆 45 个贡献，在 2025 年
- > 
-> 🚫 不开放招聘
- > 
-> 📜 13 个公共仓库 
- > 
-> 🔑 0 个私人仓库 
- > 
 **我是夜猫子 🦉** 
 
 ```text
