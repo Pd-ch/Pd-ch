@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-89-blue)
 
@@ -63,23 +63,23 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   3 hrs 25 mins       ███████████████████░░░░░░   74.65 % 
-MDX                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   6 hrs 42 mins       █████████████████████░░░░   84.23 % 
+MDX                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+CMake                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-newwork                  3 hrs 25 mins       ███████████████████░░░░░░   74.70 % 
-Pd-ch.github.io          38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Unknown Project          29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-namida                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+newwork                  6 hrs 47 mins       █████████████████████░░░░   85.40 % 
+Pd-ch.github.io          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+namida                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 操作系统: 
-Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 20:30:32 UTC
+ Last Updated on 11/10/2025 20:28:09 UTC
 <!--END_SECTION:waka-->
