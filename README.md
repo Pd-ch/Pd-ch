@@ -32,28 +32,28 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-89-blue)
 
 **我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-🌆 白天                     53 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌃 傍晚                     122 commits         ████████████░░░░░░░░░░░░░   47.47 % 
-🌙 晚上                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+🌆 白天                     55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+🌃 傍晚                     122 commits         ████████████░░░░░░░░░░░░░   47.10 % 
+🌙 晚上                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 ```
 📅 **我最有效率是在 星期日** 
 
 ```text
-星期一                      33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-星期二                      37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-星期三                      22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-星期四                      36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-星期五                      49 commits          █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-星期六                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-星期日                      50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+星期一                      33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+星期二                      37 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+星期三                      22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+星期四                      36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+星期五                      49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+星期日                      50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 ```
 
 
@@ -87,7 +87,7 @@ Linux                    12 hrs 36 mins      ███████████�
 ```text
 Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2025 20:31:50 UTC
+ Last Updated on 18/10/2025 10:06:54 UTC
 <!--END_SECTION:waka-->
