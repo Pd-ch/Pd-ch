@@ -63,22 +63,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 56 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
-Python                   40 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-C++                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Markdown                 56 mins             ██████████████░░░░░░░░░░░   56.01 % 
+Python                   40 mins             ██████████░░░░░░░░░░░░░░░   40.45 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-idea                     56 mins             ██████████░░░░░░░░░░░░░░░   38.82 % 
-eigen-test               45 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-SkelX                    43 mins             ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+idea                     56 mins             ██████████████░░░░░░░░░░░   56.44 % 
+SkelX                    43 mins             ███████████░░░░░░░░░░░░░░   43.56 % 
 
 💻 操作系统: 
-Linux                    2 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -98,5 +96,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2025 20:33:53 UTC
+ Last Updated on 30/10/2025 20:32:28 UTC
 <!--END_SECTION:waka-->
