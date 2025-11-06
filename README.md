@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-6-blue)
 
@@ -63,21 +63,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 35 mins       ████████████████████░░░░░   78.45 % 
-YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   10 hrs 49 mins      ██████████████████████░░░   86.72 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  4 hrs 55 mins       █████████████████████░░░░   84.16 % 
-skefm                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-SkelX                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+skecmae                  11 hrs 34 mins      ███████████████████████░░   92.60 % 
+skefm                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 💻 操作系统: 
-Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2025 20:34:15 UTC
+ Last Updated on 06/11/2025 20:33:48 UTC
 <!--END_SECTION:waka-->
