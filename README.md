@@ -34,7 +34,7 @@ Editor  : VS Code (Remote-SSH)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-3-blue)
 
 **我是夜猫子 🦉** 
 
@@ -63,21 +63,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   10 hrs 49 mins      ██████████████████████░░░   86.63 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python                   8 hrs 26 mins       █████████████████████░░░░   85.23 % 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  11 hrs 34 mins      ███████████████████████░░   92.61 % 
-skefm                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+skecmae                  9 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    12 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +96,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 20:30:17 UTC
+ Last Updated on 10/11/2025 20:35:39 UTC
 <!--END_SECTION:waka-->
