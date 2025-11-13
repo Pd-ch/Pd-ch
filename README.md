@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
 
@@ -63,19 +63,19 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   6 hrs 14 mins       ███████████████████████░░   93.99 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 52 mins        ████████████████████████░   96.19 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  6 hrs 38 mins       █████████████████████████   100.00 % 
+skecmae                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    6 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -95,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 20:34:39 UTC
+ Last Updated on 13/11/2025 20:34:20 UTC
 <!--END_SECTION:waka-->
