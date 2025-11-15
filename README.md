@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-1-blue)
 
 **我是夜猫子 🦉** 
 
@@ -63,19 +63,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 52 mins        ████████████████████████░   96.19 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   3 hrs 7 mins        ██████████████████░░░░░░░   72.73 % 
+C++                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Lua                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  1 hr 57 mins        █████████████████████████   100.00 % 
+skecmae                  2 hrs 47 mins       ████████████████░░░░░░░░░   65.00 % 
+Depth-Anything-3         46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+music-player             43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
 
 💻 操作系统: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -95,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2025 20:34:15 UTC
+ Last Updated on 15/11/2025 20:29:53 UTC
 <!--END_SECTION:waka-->
