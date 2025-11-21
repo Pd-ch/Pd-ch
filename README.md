@@ -63,23 +63,23 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 1 min         █████████████░░░░░░░░░░░░   50.32 % 
-C++                      2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Lua                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   3 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.53 % 
+C++                      2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.74 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Lua                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  4 hrs 16 mins       █████████████░░░░░░░░░░░░   53.46 % 
-music-player             2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
-Depth-Anything-3         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-skcmae                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+skecmae                  4 hrs 3 mins        █████████████░░░░░░░░░░░░   51.29 % 
+music-player             2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
+Depth-Anything-3         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+skcmae                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 操作系统: 
-Linux                    7 hrs 59 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -99,5 +99,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 20:34:52 UTC
+ Last Updated on 21/11/2025 20:33:50 UTC
 <!--END_SECTION:waka-->
