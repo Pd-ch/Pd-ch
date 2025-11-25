@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-20-blue)
 
@@ -63,21 +63,19 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 51 mins        ██████████████████░░░░░░░   71.94 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Roff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   1 hr 8 mins         ███████████████████████░░   92.79 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skecmae                  1 hr 23 mins        ██████████████░░░░░░░░░░░   54.17 % 
-skcmae                   1 hr 10 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
+skcmae                   1 hr 10 mins        ████████████████████████░   95.58 % 
+skecmae                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 操作系统: 
-Linux                    2 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2025 20:34:16 UTC
+ Last Updated on 25/11/2025 20:35:41 UTC
 <!--END_SECTION:waka-->
