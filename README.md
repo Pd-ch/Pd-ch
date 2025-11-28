@@ -32,28 +32,28 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-21-blue)
+![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-26-blue)
 
 **我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-🌆 白天                     57 commits          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-🌃 傍晚                     142 commits         █████████████░░░░░░░░░░░░   50.53 % 
-🌙 晚上                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌆 白天                     59 commits          █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌃 傍晚                     142 commits         █████████████░░░░░░░░░░░░   50.18 % 
+🌙 晚上                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
 ```
 📅 **我最有效率是在 星期五** 
 
 ```text
-星期一                      40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-星期二                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-星期三                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-星期四                      37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-星期五                      51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-星期日                      50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+星期一                      40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+星期二                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+星期三                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+星期四                      37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+星期五                      53 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+星期日                      50 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 
 
@@ -63,21 +63,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 3 hrs 8 mins        ██████████████░░░░░░░░░░░   55.53 % 
-Python                   2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Markdown                 3 hrs 17 mins       ████████████░░░░░░░░░░░░░   46.62 % 
+Python                   3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.49 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Pd-ch.github.io          3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.58 % 
-skcmae                   2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
+skcmae                   3 hrs 49 mins       ██████████████░░░░░░░░░░░   54.15 % 
+Pd-ch.github.io          3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
+Pd-ch                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 操作系统: 
-Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +98,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2025 20:31:11 UTC
+ Last Updated on 28/11/2025 20:33:11 UTC
 <!--END_SECTION:waka-->
