@@ -12,7 +12,7 @@
 ---
 
 ## 当前聚焦
-- LLM / DLM
+- LLM / MLLM
 - Computer Vision  
 - Embodied AI
 
@@ -25,8 +25,8 @@
 
 ## 环境快照
 ```text
-OS      : Debian (testing) Linux x86_64
-Kernel  : 6.16.3+deb14-amd64
+OS      : Debian (sid) Linux x86_64
+Kernel  : 6.17.9+deb14-amd64
 Shell   : zsh + tmux
 Editor  : VS Code (Remote-SSH)
 ```
