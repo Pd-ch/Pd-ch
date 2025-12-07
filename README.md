@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-6-blue)
 
@@ -63,21 +63,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 58 mins       ████████████████░░░░░░░░░   65.31 % 
-Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Python                   2 hrs 35 mins       █████████████████░░░░░░░░   68.16 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skcmae                   4 hrs 4 mins        ██████████████████████░░░   89.32 % 
-zed                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+skcmae                   3 hrs 18 mins       ██████████████████████░░░   87.16 % 
+zed                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 
 💻 操作系统: 
-Linux                    4 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 20:32:34 UTC
+ Last Updated on 07/12/2025 20:32:53 UTC
 <!--END_SECTION:waka-->
