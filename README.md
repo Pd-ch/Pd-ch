@@ -32,16 +32,16 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-6-blue)
 
 **我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+🌞 早晨                     19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 🌆 白天                     60 commits          █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-🌃 傍晚                     135 commits         ████████████░░░░░░░░░░░░░   48.74 % 
+🌃 傍晚                     134 commits         ████████████░░░░░░░░░░░░░   48.38 % 
 🌙 晚上                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
 ```
 📅 **我最有效率是在 星期五** 
@@ -49,11 +49,11 @@ Editor  : VS Code (Remote-SSH)
 ```text
 星期一                      36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 星期二                      39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-星期三                      26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-星期四                      40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-星期五                      51 commits          █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+星期三                      27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+星期四                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+星期五                      50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 星期六                      35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-星期日                      50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+星期日                      49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
 ```
 
 
@@ -63,31 +63,31 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 35 mins       █████████████████░░░░░░░░   68.16 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Python                   3 hrs 27 mins       █████████████████░░░░░░░░   67.76 % 
+YAML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skcmae                   3 hrs 18 mins       ██████████████████████░░░   87.16 % 
-zed                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+skcmae                   4 hrs 46 mins       ███████████████████████░░   93.38 % 
+zed                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 💻 操作系统: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         6 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Jupyter Notebook         6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -97,5 +97,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 20:32:53 UTC
+ Last Updated on 08/12/2025 20:36:54 UTC
 <!--END_SECTION:waka-->
