@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-6-blue)
 
@@ -63,21 +63,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   3 hrs 27 mins       █████████████████░░░░░░░░   67.76 % 
-YAML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   4 hrs 31 mins       ████████████████░░░░░░░░░   65.09 % 
+YAML                     1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-skcmae                   4 hrs 46 mins       ███████████████████████░░   93.38 % 
-zed                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+skcmae                   6 hrs 36 mins       ████████████████████████░   95.13 % 
+zed                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 操作系统: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -97,5 +97,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 20:36:54 UTC
+ Last Updated on 09/12/2025 20:33:03 UTC
 <!--END_SECTION:waka-->
