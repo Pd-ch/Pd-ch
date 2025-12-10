@@ -18,8 +18,3 @@ jobs:
           LOCALE: zh
           SHOW_SHORT_INFO: "True"          # 显示雇佣状态和基本信息
           SHOW_TOTAL_CODE_TIME: "True"     # 显示总编码时间
-          SHOW_LINES_OF_CODE: "True"       # 显示代码行数（展示经验丰富度）
-          SHOW_LANGUAGE: "True"            # 显示编程语言（展示技术栈）
-          SHOW_COMMIT: "True"              # 显示提交统计（展示活跃度）
-          SHOW_PROFILE_VIEWS: "True"       # 显示个人资料访问量
-          SHOW_LANGUAGE_PER_REPO: "True"   # 显示各仓库语言分布
