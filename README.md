@@ -75,22 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Text                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+TeX                      1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   41.23 % 
+Python                   49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Text                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Bash                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+TOML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-arxiv-translate          2 hrs 23 mins       ████████████░░░░░░░░░░░░░   49.38 % 
-skcmae                   2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
-hicdm                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+arxiv-translate          2 hrs 23 mins       █████████████░░░░░░░░░░░░   50.47 % 
+resume                   2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.02 % 
+hicdm                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 操作系统: 
-Linux                    4 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -110,5 +110,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 20:35:16 UTC
+ Last Updated on 24/12/2025 20:34:30 UTC
 <!--END_SECTION:waka-->
