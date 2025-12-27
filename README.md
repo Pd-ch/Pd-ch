@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -75,24 +75,24 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   6 hrs 3 mins        █████████████░░░░░░░░░░░░   50.99 % 
-TeX                      1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Python                   8 hrs 38 mins       ███████████████░░░░░░░░░░   59.41 % 
+TeX                      1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-hicdm                    6 hrs 47 mins       ██████████████░░░░░░░░░░░   57.04 % 
-arxiv-translate          2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-resume                   2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-03-人体姿态交互控制              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-01-嵌入式系统通信               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+hicdm                    6 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+03-人体姿态交互控制              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+arxiv-translate          2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+resume                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+01-嵌入式系统通信               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 操作系统: 
-Linux                    11 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -112,5 +112,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 20:34:29 UTC
+ Last Updated on 27/12/2025 20:34:50 UTC
 <!--END_SECTION:waka-->
