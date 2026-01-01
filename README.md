@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
@@ -40,7 +40,7 @@ Editor  : VS Code (Remote-SSH)
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 48 个贡献，在 2025 年
+> 🏆 0 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -75,24 +75,24 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   8 hrs 46 mins       █████████████████░░░░░░░░   68.97 % 
-Zig                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   5 hrs 30 mins       ███████████████░░░░░░░░░░   61.56 % 
+Zig                      2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-hicdm                    6 hrs 56 mins       ██████████████░░░░░░░░░░░   54.59 % 
-03-人体姿态交互控制              3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-zig-music-player         1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-01-嵌入式系统通信               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-02-键盘控制实验                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+03-人体姿态交互控制              3 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
+hicdm                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+zig-music-player         2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+01-嵌入式系统通信               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+02-键盘控制实验                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 操作系统: 
-Linux                    12 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -112,5 +112,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 20:34:44 UTC
+ Last Updated on 01/01/2026 20:35:55 UTC
 <!--END_SECTION:waka-->
