@@ -32,6 +32,8 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue)
 
 **🐱 我的 GitHub 数据** 
@@ -46,6 +48,52 @@ Editor  : VS Code (Remote-SSH)
  > 
 > 🔑 0 个私人仓库 
  > 
+**我是夜猫子 🦉** 
+
+```text
+🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+🌆 白天                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌃 傍晚                     114 commits         ████████████░░░░░░░░░░░░░   47.11 % 
+🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+```
+📅 **我最有效率是在 星期五** 
+
+```text
+星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+星期三                      26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+星期日                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+```
+
+
+📊 **本周消耗时间** 
+
+```text
+🕑︎ 时区: Asia/Shanghai
+
+💬 编程语言: 
+Zig                      2 hrs 58 mins       ██████████████████████░░░   86.71 % 
+TeX                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+OpenEdge ABL             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+
+🔥 编辑器: 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 项目: 
+zig-music-player         3 hrs 5 mins        ███████████████████████░░   90.15 % 
+resume                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+zig-course               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+hicdm                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 操作系统: 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
 **我最常使用 Jupyter Notebook** 
 
 ```text
@@ -63,5 +111,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 20:35:14 UTC
+ Last Updated on 04/01/2026 20:35:59 UTC
 <!--END_SECTION:waka-->
