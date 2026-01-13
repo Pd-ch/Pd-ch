@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -51,21 +51,21 @@ Editor  : VS Code (Remote-SSH)
 **我是夜猫子 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌆 白天                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌃 傍晚                     114 commits         ████████████░░░░░░░░░░░░░   47.11 % 
-🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌞 早晨                     17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+🌆 白天                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+🌃 傍晚                     114 commits         ████████████░░░░░░░░░░░░░   47.30 % 
+🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 ```
 📅 **我最有效率是在 星期五** 
 
 ```text
-星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-星期三                      26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-星期日                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+星期三                      25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+星期日                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 ```
 
 
@@ -75,22 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   7 hrs 1 min         ████████████░░░░░░░░░░░░░   48.68 % 
-Text                     3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Python                   8 hrs 9 mins        ██████████████░░░░░░░░░░░   55.08 % 
+Text                     3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Delta-Dynamics           13 hrs 48 mins      ████████████████████████░   95.70 % 
-zig-music-player         36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-hicdm                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Delta-Dynamics           13 hrs 31 mins      ███████████████████████░░   91.28 % 
+HAR                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 💻 操作系统: 
-Linux                    14 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -110,5 +109,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 20:38:08 UTC
+ Last Updated on 13/01/2026 20:39:00 UTC
 <!--END_SECTION:waka-->
