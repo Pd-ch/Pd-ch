@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -48,7 +48,7 @@ Editor  : VS Code (Remote-SSH)
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是夜猫子 🦉** 
+**我是夜猫 🦉** 
 
 ```text
 🌞 早晨                     17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
@@ -56,7 +56,7 @@ Editor  : VS Code (Remote-SSH)
 🌃 傍晚                     114 commits         ████████████░░░░░░░░░░░░░   47.30 % 
 🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
 ```
-📅 **我最有效率是在 星期五** 
+📅 **星期五 时的我最有干劲** 
 
 ```text
 星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
@@ -75,21 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   8 hrs 9 mins        ██████████████░░░░░░░░░░░   55.08 % 
-Text                     3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-YAML                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Python                   5 hrs 58 mins       █████████████░░░░░░░░░░░░   51.25 % 
+Text                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Other                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Delta-Dynamics           13 hrs 31 mins      ███████████████████████░░   91.28 % 
-HAR                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Delta-Dynamics           10 hrs 22 mins      ██████████████████████░░░   88.93 % 
+HAR                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 💻 操作系统: 
-Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -109,5 +109,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2026 20:39:00 UTC
+ Last Updated on 14/01/2026 20:35:02 UTC
 <!--END_SECTION:waka-->
