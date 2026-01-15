@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,21 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   5 hrs 58 mins       █████████████░░░░░░░░░░░░   51.25 % 
-Text                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Other                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Python                   5 hrs 38 mins       ████████████████░░░░░░░░░   63.46 % 
+Other                    1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Delta-Dynamics           10 hrs 22 mins      ██████████████████████░░░   88.93 % 
-HAR                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Delta-Dynamics           7 hrs 34 mins       █████████████████████░░░░   85.25 % 
+HAR                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 
 💻 操作系统: 
-Linux                    11 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -109,5 +109,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 20:35:02 UTC
+ Last Updated on 15/01/2026 20:39:47 UTC
 <!--END_SECTION:waka-->
