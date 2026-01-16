@@ -75,21 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   5 hrs 38 mins       ████████████████░░░░░░░░░   63.46 % 
-Other                    1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python                   3 hrs 45 mins       ███████████████░░░░░░░░░░   60.49 % 
+Other                    1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Delta-Dynamics           7 hrs 34 mins       █████████████████████░░░░   85.25 % 
-HAR                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Delta-Dynamics           4 hrs 53 mins       ████████████████████░░░░░   78.88 % 
+HAR                      1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
 
 💻 操作系统: 
-Linux                    8 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -109,5 +109,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 20:39:47 UTC
+ Last Updated on 16/01/2026 20:34:12 UTC
 <!--END_SECTION:waka-->
