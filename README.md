@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,8 +75,8 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-TypeScript               1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   34.12 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+TypeScript               1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   34.10 % 
+Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
 Astro                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
@@ -85,10 +85,10 @@ JSON                     16 mins             █░░░░░░░░░░�
 VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Pd-ch.github.io          2 hrs 54 mins       ██████████████░░░░░░░░░░░   57.33 % 
-HAR                      1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Pd-ch.github.io          2 hrs 54 mins       ██████████████░░░░░░░░░░░   57.30 % 
+HAR                      1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 pdchblog                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-hicdm                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+hicdm                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 zig-learn                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 操作系统: 
@@ -112,5 +112,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 20:45:02 UTC
+ Last Updated on 22/01/2026 20:41:39 UTC
 <!--END_SECTION:waka-->
