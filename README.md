@@ -75,16 +75,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-本周没有记录到任何活动
+Python                   15 mins             ███████████████░░░░░░░░░░   60.37 % 
+JSON                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Zig                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+test                     25 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -104,5 +108,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2026 20:43:50 UTC
+ Last Updated on 30/01/2026 20:43:34 UTC
 <!--END_SECTION:waka-->
