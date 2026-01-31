@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -75,20 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   15 mins             ███████████████░░░░░░░░░░   60.37 % 
-JSON                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Zig                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+CMake                    21 mins             ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Python                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+C++                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Zig                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 编辑器: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-test                     25 mins             █████████████████████████   100.00 % 
+cpp                      43 mins             ████████████████░░░░░░░░░   62.62 % 
+test                     26 mins             █████████░░░░░░░░░░░░░░░░   37.38 % 
 
 💻 操作系统: 
-Linux                    25 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -108,5 +109,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 20:43:34 UTC
+ Last Updated on 31/01/2026 20:38:18 UTC
 <!--END_SECTION:waka-->
