@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -75,18 +75,16 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-CMake                    31 mins             █████████████░░░░░░░░░░░░   51.25 % 
-C++                      22 mins             █████████░░░░░░░░░░░░░░░░   36.23 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+CMake                    40 mins             ████████████████░░░░░░░░░   64.67 % 
+C++                      16 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 编辑器: 
 VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cpp                      1 hr 1 min          █████████████████████████   99.49 % 
-test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+cpp                      1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 操作系统: 
 Linux                    1 hr 1 min          █████████████████████████   100.00 % 
@@ -109,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 20:46:36 UTC
+ Last Updated on 07/02/2026 20:41:50 UTC
 <!--END_SECTION:waka-->
