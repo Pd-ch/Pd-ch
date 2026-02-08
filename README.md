@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -75,19 +75,19 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-CMake                    40 mins             ████████████████░░░░░░░░░   64.67 % 
-C++                      16 mins             ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CMake                    40 mins             █████████████░░░░░░░░░░░░   53.89 % 
+C++                      29 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cpp                      1 hr 1 min          █████████████████████████   100.00 % 
+cpp                      1 hr 14 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 1 min          █████████████████████████   100.00 % 
+Linux                    1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -107,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 20:41:50 UTC
+ Last Updated on 08/02/2026 20:42:04 UTC
 <!--END_SECTION:waka-->
