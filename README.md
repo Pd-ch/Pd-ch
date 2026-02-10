@@ -75,8 +75,8 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-CMake                    40 mins             █████████████░░░░░░░░░░░░   53.89 % 
-C++                      29 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
+CMake                    40 mins             █████████████░░░░░░░░░░░░   53.86 % 
+C++                      29 mins             ██████████░░░░░░░░░░░░░░░   39.55 % 
 JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
@@ -107,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2026 20:56:39 UTC
+ Last Updated on 10/02/2026 20:59:42 UTC
 <!--END_SECTION:waka-->
