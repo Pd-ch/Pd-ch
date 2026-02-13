@@ -75,19 +75,19 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C++                      40 mins             ████████████░░░░░░░░░░░░░   47.33 % 
-CMake                    40 mins             ████████████░░░░░░░░░░░░░   46.93 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C++                      32 mins             ████████████░░░░░░░░░░░░░   48.26 % 
+CMake                    30 mins             ███████████░░░░░░░░░░░░░░   44.51 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cpp                      1 hr 25 mins        █████████████████████████   100.00 % 
+cpp                      1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -107,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 20:47:40 UTC
+ Last Updated on 13/02/2026 20:54:21 UTC
 <!--END_SECTION:waka-->
