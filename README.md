@@ -75,19 +75,17 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C++                      32 mins             ████████████░░░░░░░░░░░░░   48.26 % 
-CMake                    30 mins             ███████████░░░░░░░░░░░░░░   44.51 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C++                      23 mins             █████████████████████████   99.69 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cpp                      1 hr 7 mins         █████████████████████████   100.00 % 
+cpp                      23 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
+Linux                    23 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -107,5 +105,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 20:54:21 UTC
+ Last Updated on 14/02/2026 20:39:42 UTC
 <!--END_SECTION:waka-->
