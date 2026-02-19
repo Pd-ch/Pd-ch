@@ -86,7 +86,6 @@ VS Code                  3 hrs 6 mins        ███████████�
 
 🐱‍💻 项目: 
 cdmae                    3 hrs 6 mins        █████████████████████████   100.00 % 
-cpp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
 Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
@@ -109,5 +108,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 20:55:16 UTC
+ Last Updated on 19/02/2026 20:45:24 UTC
 <!--END_SECTION:waka-->
