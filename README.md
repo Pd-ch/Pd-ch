@@ -75,20 +75,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 19 mins       ███████████████████░░░░░░   74.87 % 
-Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   2 hrs 32 mins       ██████████████████░░░░░░░   72.62 % 
+Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    3 hrs 6 mins        █████████████████████████   100.00 % 
+cdmae                    3 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -108,5 +108,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 20:46:03 UTC
+ Last Updated on 21/02/2026 20:38:32 UTC
 <!--END_SECTION:waka-->
