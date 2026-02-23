@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -51,21 +51,21 @@ Editor  : VS Code (Remote-SSH)
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-🌆 白天                     58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌃 傍晚                     113 commits         ████████████░░░░░░░░░░░░░   46.31 % 
-🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌞 早晨                     19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+🌆 白天                     59 commits          ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌃 傍晚                     113 commits         ███████████░░░░░░░░░░░░░░   45.93 % 
+🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-星期三                      28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-星期日                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+星期三                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+星期日                      41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -75,20 +75,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 31 mins        ███████████████░░░░░░░░░░   60.83 % 
-Markdown                 43 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   2 hrs 12 mins       ████████████████░░░░░░░░░   66.00 % 
+Markdown                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    2 hrs 30 mins       █████████████████████████   100.00 % 
+cdmae                    3 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Jupyter Notebook** 
@@ -108,5 +108,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 20:40:59 UTC
+ Last Updated on 23/02/2026 20:59:04 UTC
 <!--END_SECTION:waka-->
