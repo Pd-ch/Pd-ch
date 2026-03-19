@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,25 +75,25 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.90 % 
-Markdown                 1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Python                   3 hrs 56 mins       █████████████░░░░░░░░░░░░   53.18 % 
+Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    3 hrs 8 mins        ███████████████░░░░░░░░░░   60.82 % 
-MAMP                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Re3d Lab                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-gaustudio                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-xanmod-kernel-WSL2       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+cdmae                    5 hrs 23 mins       ██████████████████░░░░░░░   72.73 % 
+MAMP                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Re3d Lab                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+gaustudio                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+xanmod-kernel-WSL2       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 操作系统: 
-Linux                    4 hrs 46 mins       ███████████████████████░░   92.74 % 
-Windows                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Linux                    7 hrs 2 mins        ████████████████████████░   94.95 % 
+Windows                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 **我最常使用 C++** 
@@ -113,5 +113,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 20:53:50 UTC
+ Last Updated on 19/03/2026 20:54:59 UTC
 <!--END_SECTION:waka-->
