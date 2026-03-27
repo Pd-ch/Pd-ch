@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,22 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
-JSON                     3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Python                   2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-YAML                     1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JSON                     2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
+Markdown                 2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
+YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    10 hrs 45 mins      ███████████████████████░░   93.11 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-MAMP                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+cdmae                    7 hrs 24 mins       ███████████████████████░░   91.72 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+MAMP                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 💻 操作系统: 
-Linux                    11 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -110,5 +110,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 20:49:15 UTC
+ Last Updated on 27/03/2026 20:54:22 UTC
 <!--END_SECTION:waka-->
