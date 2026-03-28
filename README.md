@@ -75,22 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-JSON                     2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.27 % 
-Markdown                 2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
-YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.10 % 
+JSON                     2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+YAML                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    7 hrs 24 mins       ███████████████████████░░   91.72 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-MAMP                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+cdmae                    7 hrs 15 mins       ███████████████████████░░   91.57 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+MAMP                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 操作系统: 
-Linux                    8 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -110,5 +110,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 20:54:22 UTC
+ Last Updated on 28/03/2026 20:45:31 UTC
 <!--END_SECTION:waka-->
