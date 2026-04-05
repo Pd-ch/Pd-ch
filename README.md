@@ -75,23 +75,23 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
-Other                    3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-Markdown                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Python                   5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
+Other                    3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Markdown                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 编辑器: 
-VS Code                  13 hrs 16 mins      ██████████████████████░░░   88.24 % 
-Unknown Editor           1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+VS Code                  12 hrs 37 mins      ██████████████████████░░░   87.70 % 
+Unknown Editor           1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 
 🐱‍💻 项目: 
-MAMP                     9 hrs 6 mins        ███████████████░░░░░░░░░░   60.56 % 
-cdmae                    5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+MAMP                     9 hrs 6 mins        ████████████████░░░░░░░░░   63.32 % 
+cdmae                    5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.52 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 操作系统: 
-Linux                    15 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -111,5 +111,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 20:46:57 UTC
+ Last Updated on 05/04/2026 20:47:16 UTC
 <!--END_SECTION:waka-->
