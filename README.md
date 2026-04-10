@@ -75,20 +75,16 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    3 hrs 44 mins       ██████████████░░░░░░░░░░░   57.70 % 
-Markdown                 1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-MAMP                     6 hrs 28 mins       █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Linux                    6 hrs 28 mins       █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 **我最常使用 C++** 
@@ -108,5 +104,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 21:04:57 UTC
+ Last Updated on 10/04/2026 20:55:03 UTC
 <!--END_SECTION:waka-->
