@@ -75,21 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    4 hrs 18 mins       ██████████████████░░░░░░░   72.07 % 
-Markdown                 1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    4 hrs 38 mins       ██████████████████░░░░░░░   71.40 % 
+Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    5 hrs 33 mins       ███████████████████████░░   92.89 % 
-Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+cdmae                    6 hrs 1 min         ███████████████████████░░   92.77 % 
+Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+call_MHxEODQ4UGt0VzhGaTR21 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 操作系统: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -109,5 +110,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 21:01:20 UTC
+ Last Updated on 18/04/2026 20:51:58 UTC
 <!--END_SECTION:waka-->
