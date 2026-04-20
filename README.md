@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -51,21 +51,21 @@ Editor  : VS Code (Remote-SSH)
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-🌆 白天                     59 commits          ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-🌃 傍晚                     113 commits         ████████████░░░░░░░░░░░░░   46.12 % 
-🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌞 早晨                     19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 白天                     60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+🌃 傍晚                     113 commits         ███████████░░░░░░░░░░░░░░   45.75 % 
+🌙 晚上                     55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 ```
 📅 **星期五 时的我最有干劲** 
 
 ```text
-星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-星期三                      28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-星期日                      42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+星期二                      35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+星期三                      30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+星期四                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+星期日                      42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 ```
 
 
@@ -75,22 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    4 hrs 47 mins       █████████████████░░░░░░░░   66.69 % 
-Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    6 hrs 5 mins        ███████████████░░░░░░░░░░   60.82 % 
+Markdown                 1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Python                   1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cdmae                    6 hrs 43 mins       ███████████████████████░░   93.46 % 
-Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-call_MHxEODQ4UGt0VzhGaTR21 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+cdmae                    9 hrs 32 mins       ████████████████████████░   95.30 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+call_MHxEODQ4UGt0VzhGaTR21 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 操作系统: 
-Linux                    7 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs              █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -110,5 +110,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 20:53:28 UTC
+ Last Updated on 20/04/2026 21:03:04 UTC
 <!--END_SECTION:waka-->
