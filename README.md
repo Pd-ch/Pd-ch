@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,25 +75,24 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Text                     8 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
-Python                   5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Other                    3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Text                     13 hrs 59 mins      ████████████░░░░░░░░░░░░░   46.23 % 
+Python                   7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Other                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 编辑器: 
-VS Code                  21 hrs 55 mins      █████████████████████████   98.69 % 
-Unknown Editor           17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+VS Code                  30 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-代码--mamba模型数据+数据处理_ped   7 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.87 % 
-cdmae                    6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-000---无监督学习对比实验          2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-代码--X-CLIP修改2.0          2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-MAMP                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+000---无监督学习对比实验          7 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+代码--mamba模型数据+数据处理_ped   7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+cdmae                    5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+代码--X-CLIP修改2.0          2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+X_clip自制数据集              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 操作系统: 
-Linux                    22 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -113,5 +112,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2026 20:55:08 UTC
+ Last Updated on 26/04/2026 20:55:39 UTC
 <!--END_SECTION:waka-->
