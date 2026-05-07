@@ -75,24 +75,23 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
-TOML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Other                    31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   42 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
+Other                    35 mins             ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cgcm                     2 hrs 11 mins       ███████████████░░░░░░░░░░   59.91 % 
-Fast-FoundationStereo    47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-000---无监督学习对比实验          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-UGCN                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+cgcm                     56 mins             █████████████░░░░░░░░░░░░   52.94 % 
+Fast-FoundationStereo    29 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+000---无监督学习对比实验          20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 操作系统: 
-Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -112,5 +111,5 @@ XSLT                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2026 21:23:06 UTC
+ Last Updated on 07/05/2026 21:17:28 UTC
 <!--END_SECTION:waka-->
