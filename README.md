@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -40,7 +40,7 @@ Editor  : VS Code (Remote-SSH)
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 7 个贡献，在 2026 年
+> 🏆 8 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -75,33 +75,32 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   42 mins             ██████████░░░░░░░░░░░░░░░   40.24 % 
-Other                    35 mins             ████████░░░░░░░░░░░░░░░░░   33.26 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Other                    35 mins             ██████████░░░░░░░░░░░░░░░   40.94 % 
+Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cgcm                     56 mins             █████████████░░░░░░░░░░░░   52.94 % 
-Fast-FoundationStereo    29 mins             ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-000---无监督学习对比实验          20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+cgcm                     56 mins             ████████████████░░░░░░░░░   65.16 % 
+Fast-FoundationStereo    29 mins             ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 操作系统: 
-Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
 
 ```text
-C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-XSLT                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -111,5 +110,5 @@ XSLT                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 21:17:28 UTC
+ Last Updated on 08/05/2026 21:16:02 UTC
 <!--END_SECTION:waka-->
