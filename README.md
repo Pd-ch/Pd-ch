@@ -75,22 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    35 mins             ██████████░░░░░░░░░░░░░░░   40.94 % 
-Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-TOML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    30 mins             █████████████░░░░░░░░░░░░   53.17 % 
+Python                   16 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cgcm                     56 mins             ████████████████░░░░░░░░░   65.16 % 
-Fast-FoundationStereo    29 mins             ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+cgcm                     56 mins             █████████████████████████   99.79 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+qtcreator                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -110,5 +110,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 21:16:02 UTC
+ Last Updated on 09/05/2026 20:59:58 UTC
 <!--END_SECTION:waka-->
