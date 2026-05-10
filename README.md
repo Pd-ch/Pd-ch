@@ -75,18 +75,16 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    30 mins             █████████████░░░░░░░░░░░░   53.17 % 
-Python                   16 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    30 mins             █████████████░░░░░░░░░░░░   53.28 % 
+Python                   16 mins             ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
 VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cgcm                     56 mins             █████████████████████████   99.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+cgcm                     56 mins             █████████████████████████   100.00 % 
 qtcreator                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
@@ -110,5 +108,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 20:59:58 UTC
+ Last Updated on 10/05/2026 21:03:11 UTC
 <!--END_SECTION:waka-->
