@@ -75,20 +75,18 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    25 mins             ██████████████░░░░░░░░░░░   55.99 % 
-Python                   12 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    25 mins             ████████████████████░░░░░   78.35 % 
+Markdown                 7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
 
 🔥 编辑器: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cgcm                     45 mins             █████████████████████████   100.00 % 
+cgcm                     32 mins             █████████████████████████   100.00 % 
 qtcreator                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
-Linux                    45 mins             █████████████████████████   100.00 % 
+Linux                    32 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -108,5 +106,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 21:31:12 UTC
+ Last Updated on 13/05/2026 21:47:01 UTC
 <!--END_SECTION:waka-->
