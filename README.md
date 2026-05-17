@@ -32,8 +32,6 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -48,52 +46,6 @@ Editor  : VS Code (Remote-SSH)
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是夜猫 🦉** 
-
-```text
-🌞 早晨                     19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 白天                     64 commits          ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-🌃 傍晚                     113 commits         ███████████░░░░░░░░░░░░░░   45.02 % 
-🌙 晚上                     55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-```
-📅 **星期五 时的我最有干劲** 
-
-```text
-星期一                      31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-星期二                      35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-星期三                      29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-星期四                      36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-星期五                      46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-星期六                      32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-星期日                      42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-```
-
-
-📊 **本周消耗时间** 
-
-```text
-🕑︎ 时区: Asia/Shanghai
-
-💬 编程语言: 
-Python                   1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.83 % 
-Other                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-
-🔥 编辑器: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 项目: 
-X_clip自制数据集              1 hr 35 mins        █████████████░░░░░░░░░░░░   52.46 % 
-cgcm                     50 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-pdchblog                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-
-💻 操作系统: 
-Linux                    3 hrs 2 mins        █████████████████████████   100.00 % 
-```
-
 **我最常使用 C++** 
 
 ```text
@@ -111,5 +63,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 21:04:40 UTC
+ Last Updated on 17/05/2026 21:09:40 UTC
 <!--END_SECTION:waka-->
