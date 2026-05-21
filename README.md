@@ -32,8 +32,6 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -75,26 +73,25 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   7 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.55 % 
-Markdown                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Other                    2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   7 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
+Markdown                 5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 58 mins      ████████████████████████░   97.02 % 
-Unknown Editor           26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  15 hrs 39 mins      ████████████████████████░   97.15 % 
+Claude Code              27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🐱‍💻 项目: 
-Re3d Lab                 8 hrs 49 mins       ██████████████░░░░░░░░░░░   57.15 % 
-mamt                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-X_clip自制数据集              1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-cgcm                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-CLIP4Clip-master         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Re3d Lab                 9 hrs 39 mins       ███████████████░░░░░░░░░░   59.95 % 
+mamt                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+X_clip自制数据集              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+CLIP4Clip-master         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 💻 操作系统: 
-Linux                    15 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -114,5 +111,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2026 22:08:25 UTC
+ Last Updated on 21/05/2026 21:48:53 UTC
 <!--END_SECTION:waka-->
