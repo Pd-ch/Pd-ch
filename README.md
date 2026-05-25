@@ -75,25 +75,25 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.32 % 
-Markdown                 2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
-Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-TOML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Python                   3 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.33 % 
+Markdown                 2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+TOML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 47 mins       █████████████████████████   99.89 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+VS Code                  6 hrs 57 mins       █████████████████████████   99.86 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 项目: 
-Re3d Lab                 4 hrs 33 mins       █████████████░░░░░░░░░░░░   51.81 % 
-mamt                     3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
-CLIP4Clip-master         38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-feeder                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Re3d Lab                 3 hrs 29 mins       █████████████░░░░░░░░░░░░   50.14 % 
+mamt                     3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+docs                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+代码--mamba模型数据+数据处理_ped   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 操作系统: 
-Linux                    8 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -113,5 +113,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 21:11:50 UTC
+ Last Updated on 25/05/2026 21:23:53 UTC
 <!--END_SECTION:waka-->
