@@ -75,25 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   3 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.33 % 
-Markdown                 2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-TOML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Markdown                 1 hr 24 mins        ████████████████████░░░░░   79.25 % 
+Text                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 57 mins       █████████████████████████   99.86 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Re3d Lab                 3 hrs 29 mins       █████████████░░░░░░░░░░░░   50.14 % 
-mamt                     3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.02 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-docs                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-代码--mamba模型数据+数据处理_ped   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+mamt                     1 hr 2 mins         ███████████████░░░░░░░░░░   58.59 % 
+Re3d Lab                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+docs                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+代码--mamba模型数据+数据处理_ped   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 操作系统: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -113,5 +110,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2026 21:23:53 UTC
+ Last Updated on 26/05/2026 21:59:57 UTC
 <!--END_SECTION:waka-->
