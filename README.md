@@ -75,22 +75,23 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 1 hr 24 mins        ████████████████████░░░░░   79.25 % 
-Text                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Text                     37 mins             █████████████████░░░░░░░░   66.99 % 
+Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-mamt                     1 hr 2 mins         ███████████████░░░░░░░░░░   58.59 % 
-Re3d Lab                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-docs                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-代码--mamba模型数据+数据处理_ped   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+cgcm                     24 mins             ███████████░░░░░░░░░░░░░░   43.90 % 
+Re3d Lab                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+call_00_iX2LImf84SMWEr59s6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+call_00_iHzVuYXJaIa4fkm5d3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+call_00_NMOrLpkm6pa4RaEXU2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 💻 操作系统: 
-Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -110,5 +111,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 21:59:57 UTC
+ Last Updated on 27/05/2026 22:09:24 UTC
 <!--END_SECTION:waka-->
