@@ -75,24 +75,24 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-C++                      4 hrs               ██████████░░░░░░░░░░░░░░░   40.50 % 
-Text                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Python                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-CMake                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+C++                      4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.08 % 
+Text                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Python                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+CMake                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 编辑器: 
-VS Code                  9 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-Re3d Lab                 5 hrs 26 mins       ██████████████░░░░░░░░░░░   54.84 % 
-R3                       1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-dvlt                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-explore                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-call_00_iHzVuYXJaIa4fkm5d34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Re3d Lab                 5 hrs 26 mins       ██████████████░░░░░░░░░░░   55.62 % 
+R3                       1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+dvlt                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+explore                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+call_00_iHzVuYXJaIa4fkm5d34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 💻 操作系统: 
-Linux                    9 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -112,5 +112,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 22:33:10 UTC
+ Last Updated on 03/06/2026 22:37:12 UTC
 <!--END_SECTION:waka-->
