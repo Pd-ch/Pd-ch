@@ -75,25 +75,24 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   4 hrs 24 mins       ███████████████░░░░░░░░░░   60.62 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-TOML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Python                   3 hrs 38 mins       ████████████████░░░░░░░░░   64.65 % 
+YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+TOML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 编辑器: 
-VS Code                  7 hrs 15 mins       █████████████████████████   99.85 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  5 hrs 37 mins       █████████████████████████   99.81 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 项目: 
-cgsmae                   3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
-UGCN                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
-dvlt                     1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-call_00_U47zipgns3Ep0G3PT0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+cgsmae                   3 hrs 16 mins       ███████████████░░░░░░░░░░   58.24 % 
+UGCN                     2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
+dvlt                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 操作系统: 
-Linux                    7 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -113,5 +112,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 22:00:36 UTC
+ Last Updated on 10/06/2026 22:17:51 UTC
 <!--END_SECTION:waka-->
