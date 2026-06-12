@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,25 +75,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   43.47 % 
-Python                   3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.27 % 
-YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-TOML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Zig                      4 hrs 16 mins       ███████████████████████░░   93.43 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 编辑器: 
-VS Code                  8 hrs 16 mins       ████████████████████████░   97.42 % 
-Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+VS Code                  4 hrs 21 mins       ████████████████████████░   95.20 % 
+Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🐱‍💻 项目: 
-ziglings                 3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
-cgsmae                   3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
-UGCN                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-dvlt                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+ziglings                 4 hrs 21 mins       ████████████████████████░   95.34 % 
+cgsmae                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+dvlt                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 操作系统: 
-Linux                    8 hrs 29 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Python** 
@@ -113,5 +110,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 22:12:42 UTC
+ Last Updated on 12/06/2026 22:03:16 UTC
 <!--END_SECTION:waka-->
