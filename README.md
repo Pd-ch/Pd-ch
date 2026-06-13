@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,32 +75,31 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      4 hrs 16 mins       ███████████████████████░░   93.43 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Zig                      6 hrs 1 min         ████████████████████████░   96.83 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 21 mins       ████████████████████████░   95.20 % 
-Unknown Editor           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+VS Code                  6 hrs               ████████████████████████░   96.64 % 
+Unknown Editor           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🐱‍💻 项目: 
-ziglings                 4 hrs 21 mins       ████████████████████████░   95.34 % 
-cgsmae                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-dvlt                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+ziglings                 6 hrs 7 mins        █████████████████████████   98.31 % 
+MACD                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 操作系统: 
-Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
-**我最常使用 Python** 
+**我最常使用 C++** 
 
 ```text
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-XSLT                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+XSLT                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -110,5 +109,5 @@ XSLT                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 22:03:16 UTC
+ Last Updated on 13/06/2026 21:22:27 UTC
 <!--END_SECTION:waka-->
