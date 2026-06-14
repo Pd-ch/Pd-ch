@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-273%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,21 +75,21 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      6 hrs 1 min         ████████████████████████░   96.83 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Zig                      8 hrs 40 mins       ████████████████████████░   97.75 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs               ████████████████████████░   96.64 % 
-Unknown Editor           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VS Code                  8 hrs 39 mins       ████████████████████████░   97.65 % 
+Unknown Editor           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 项目: 
-ziglings                 6 hrs 7 mins        █████████████████████████   98.31 % 
-MACD                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+ziglings                 8 hrs 46 mins       █████████████████████████   98.81 % 
+MACD                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 操作系统: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -109,5 +109,5 @@ XSLT                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 21:22:27 UTC
+ Last Updated on 14/06/2026 21:21:21 UTC
 <!--END_SECTION:waka-->
