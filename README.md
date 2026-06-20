@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -75,20 +75,20 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      10 hrs 35 mins      █████████████████████████   98.60 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Zig                      9 hrs 59 mins       █████████████████████████   99.57 % 
+Diff                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 57 mins       █████████████████████████   99.16 % 
+Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 项目: 
-ziglings                 10 hrs 38 mins      █████████████████████████   99.02 % 
-MACD                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+ziglings                 10 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    10 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -108,5 +108,5 @@ XSLT                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 21:14:36 UTC
+ Last Updated on 20/06/2026 21:24:04 UTC
 <!--END_SECTION:waka-->
