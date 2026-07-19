@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
@@ -75,27 +75,27 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Markdown                 2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Other                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-C++                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Python                   3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Zig                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+C++                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 10 mins      ████████████████████░░░░░   79.12 % 
-Opencode Cli             2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Codex CLI                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Unknown Editor           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+VS Code                  11 hrs 10 mins      ████████████████████░░░░░   80.64 % 
+Opencode Cli             2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Codex CLI                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Unknown Editor           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🐱‍💻 项目: 
-skeleton                 5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
-cpp                      4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-实验                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-config                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-pdchlog                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+skeleton                 5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.56 % 
+cpp                      4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
+zig                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+实验                       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+config                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 操作系统: 
-Linux                    12 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **我最常使用 C++** 
@@ -115,5 +115,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 20:58:40 UTC
+ Last Updated on 19/07/2026 20:59:34 UTC
 <!--END_SECTION:waka-->
