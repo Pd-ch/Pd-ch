@@ -32,6 +32,10 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
@@ -73,51 +77,51 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Python                   4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Markdown                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-KDL                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Zig                      4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Python                   3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Markdown                 2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+KDL                      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 编辑器: 
-VS Code                  18 hrs 20 mins      █████████████████████████   99.29 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+VS Code                  18 hrs 1 min        █████████████████████████   99.28 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 项目: 
-NyxNiri                  4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-pdchlog                  3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-cuemusic                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-zig                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-openrm                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+NyxNiri                  4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+pdchlog                  3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+cuemusic                 3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+zig                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+SPlayer-Next             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 💻 操作系统: 
-Linux                    18 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 49 mins (64.03%)
+⏱ AI Coding Time: 11 hrs 37 mins (64.07%)
 
-✍️ 3,410 lines written by AI, 4,380 lines written by hand (43.77% AI-written)
+✍️ 3,393 lines written by AI, 4,410 lines written by hand (43.48% AI-written)
 
-🔤 3,800,055 Input Tokens, 25,775 Output Tokens
+🔤 3,843,733 Input Tokens, 27,667 Output Tokens
 
-💵 $11.82 Estimated AI Cost This Week
+💵 $11.98 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 177 AI Prompts
+🧠 29 AI Sessions, 172 AI Prompts
 
-Github-Copilot           2,901 lines         █████████████████████░░░░   82.27 % 
-Deepseek                 506 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Sonnet                   119 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Github-Copilot           2,859 lines         █████████████████████░░░░   82.06 % 
+Deepseek                 506 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Sonnet                   119 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.77% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
+⚖️ Balanced with AI — 43.48% of written lines came from AI
+📄 Detailed Prompter — average 623 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 64.48% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.76% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -137,5 +141,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 21:14:16 UTC
+ Last Updated on 29/07/2026 21:03:55 UTC
 <!--END_SECTION:waka-->
