@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -77,51 +77,51 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Markdown                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-KDL                      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Other                    1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 5 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Python                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+JSON                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+KDL                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 🔥 编辑器: 
-VS Code                  15 hrs 38 mins      █████████████████████████   99.17 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+VS Code                  21 hrs 23 mins      █████████████████████████   99.39 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 项目: 
-NyxNiri                  4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-cuemusic                 3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-极光の粗粮8EliteGen5设备一键解锁bl(71 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-SPlayer-Next             1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-实验                       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+NyxNiri                  4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+openrm                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+极光の粗粮8EliteGen5设备一键解锁bl(72 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+cuemusic                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+gbl_root_canoe           1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 操作系统: 
-Linux                    15 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 29 mins (66.5%)
+⏱ AI Coding Time: 15 hrs 26 mins (71.72%)
 
-✍️ 3,691 lines written by AI, 4,465 lines written by hand (45.26% AI-written)
+✍️ 8,039 lines written by AI, 3,103 lines written by hand (72.15% AI-written)
 
-🔤 1,757,844 Input Tokens, 21,652 Output Tokens
+🔤 1,856,281 Input Tokens, 29,600 Output Tokens
 
-💵 $5.64 Estimated AI Cost This Week
+💵 $6.05 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 150 AI Prompts
+🧠 24 AI Sessions, 199 AI Prompts
 
-Github-Copilot           3,158 lines         █████████████████████░░░░   83.48 % 
-Deepseek                 506 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Sonnet                   119 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Github-Copilot           7,536 lines         ███████████████████████░░   92.34 % 
+Deepseek                 506 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Sonnet                   119 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.26% of written lines came from AI
-📄 Detailed Prompter — average 632 characters per prompt
+🤖 AI-Driven — 72.15% of written lines came from AI
+📄 Detailed Prompter — average 541 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 61.17% of changed lines were hand-edited
+🚀 High AI Trust — 33.39% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -141,5 +141,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 21:13:58 UTC
+ Last Updated on 01/08/2026 21:02:28 UTC
 <!--END_SECTION:waka-->
