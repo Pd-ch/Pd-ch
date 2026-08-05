@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2035%20mins-blue?style=flat)
 
@@ -53,21 +53,21 @@ Editor  : VS Code (Remote-SSH)
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 白天                     23 commits          █████████░░░░░░░░░░░░░░░░   37.70 % 
-🌃 傍晚                     21 commits          █████████░░░░░░░░░░░░░░░░   34.43 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 早晨                     10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌆 白天                     22 commits          █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌃 傍晚                     21 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌙 晚上                     6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
-星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-星期三                      16 commits          ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-星期日                      11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
+星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+星期三                      14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+星期日                      11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 
 
@@ -77,46 +77,46 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.01 % 
-Python                   2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Other                    1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Batchfile                1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Markdown                 3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.62 % 
+Python                   3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Other                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Batchfile                1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-openrm                   2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-极光の粗粮8EliteGen5设备一键解锁bl(72 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-gbl_root_canoe           1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-8EliteGen5-dev           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-实验                       1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+openrm                   3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+极光の粗粮8EliteGen5设备一键解锁bl(72 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+gbl_root_canoe           1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+8EliteGen5-dev           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+实验                       1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 
 💻 操作系统: 
-Linux                    12 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 3 mins (72.93%)
+⏱ AI Coding Time: 9 hrs 31 mins (73.0%)
 
-✍️ 4,778 lines written by AI, 1,063 lines written by hand (81.8% AI-written)
+✍️ 5,218 lines written by AI, 989 lines written by hand (84.07% AI-written)
 
-🔤 659,520 Input Tokens, 15,216 Output Tokens
+🔤 1,087,256 Input Tokens, 16,442 Output Tokens
 
-💵 $2.21 Estimated AI Cost This Week
+💵 $3.51 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 101 AI Prompts
+🧠 12 AI Sessions, 108 AI Prompts
 
-Github-Copilot           4,809 lines         █████████████████████████   100.00 % 
+Github-Copilot           5,254 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.8% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 20.45% of changed lines were hand-edited
+🤖 AI-Driven — 84.07% of written lines came from AI
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 18.09% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -136,5 +136,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 21:19:14 UTC
+ Last Updated on 05/08/2026 21:19:17 UTC
 <!--END_SECTION:waka-->
