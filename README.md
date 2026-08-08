@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -53,21 +53,21 @@ Editor  : VS Code (Remote-SSH)
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-🌆 白天                     22 commits          █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 傍晚                     21 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌙 晚上                     6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+🌞 早晨                     12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌆 白天                     24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌃 傍晚                     21 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
-星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-星期三                      14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-星期日                      11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   30.16 % 
+星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+星期三                      18 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
 ```
 
 
@@ -77,48 +77,48 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Python                   4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-KDL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Python                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+KDL                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 
 🔥 编辑器: 
-VS Code                  19 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-openrm                   7 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-quickshell               1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-gbl_root_canoe           1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-pdch                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-NyxNiri                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+openrm                   4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+NyxNiri                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+quickshell               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+pdch                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+实验                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 操作系统: 
-Linux                    19 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 9 mins (73.66%)
+⏱ AI Coding Time: 8 hrs 20 mins (69.11%)
 
-✍️ 7,641 lines written by AI, 1,013 lines written by hand (88.29% AI-written)
+✍️ 3,293 lines written by AI, 824 lines written by hand (79.99% AI-written)
 
-🔤 2,314,518 Input Tokens, 26,765 Output Tokens
+🔤 1,919,260 Input Tokens, 17,616 Output Tokens
 
-💵 $7.35 Estimated AI Cost This Week
+💵 $6.02 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 164 AI Prompts
+🧠 14 AI Sessions, 109 AI Prompts
 
-Github-Copilot           8,199 lines         █████████████████████████   98.55 % 
-Deepseek                 121 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Github-Copilot           3,821 lines         ████████████████████████░   96.93 % 
+Deepseek                 121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.29% of written lines came from AI
-📝 Concise Prompter — average 189 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 14.96% of changed lines were hand-edited
+🤖 AI-Driven — 79.99% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 24.75% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 20:49:29 UTC
+ Last Updated on 08/08/2026 20:38:06 UTC
 <!--END_SECTION:waka-->
