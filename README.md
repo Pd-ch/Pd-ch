@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -53,21 +53,21 @@ Editor  : VS Code (Remote-SSH)
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-🌆 白天                     24 commits          ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌃 傍晚                     21 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 早晨                     10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌆 白天                     22 commits          █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌃 傍晚                     21 commits          █████████░░░░░░░░░░░░░░░░   35.59 % 
+🌙 晚上                     6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   30.16 % 
-星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-星期三                      18 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+星期一                      19 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
+星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+星期三                      14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+星期日                      11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 
 
@@ -77,48 +77,48 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-KDL                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Python                   3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+KDL                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 编辑器: 
-VS Code                  12 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-openrm                   4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
-NyxNiri                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-quickshell               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-pdch                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-实验                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+openrm                   4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
+NyxNiri                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+quickshell               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+pdch                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+实验                       52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 💻 操作系统: 
-Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 20 mins (69.11%)
+⏱ AI Coding Time: 8 hrs 11 mins (70.91%)
 
-✍️ 3,293 lines written by AI, 824 lines written by hand (79.99% AI-written)
+✍️ 3,293 lines written by AI, 816 lines written by hand (80.14% AI-written)
 
-🔤 1,919,260 Input Tokens, 17,616 Output Tokens
+🔤 1,766,141 Input Tokens, 16,186 Output Tokens
 
-💵 $6.02 Estimated AI Cost This Week
+💵 $5.54 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 109 AI Prompts
+🧠 13 AI Sessions, 105 AI Prompts
 
 Github-Copilot           3,821 lines         ████████████████████████░   96.93 % 
 Deepseek                 121 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.99% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
+🤖 AI-Driven — 80.14% of written lines came from AI
+📝 Concise Prompter — average 111 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 24.75% of changed lines were hand-edited
+🚀 High AI Trust — 24.62% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 20:38:06 UTC
+ Last Updated on 09/08/2026 20:40:36 UTC
 <!--END_SECTION:waka-->
