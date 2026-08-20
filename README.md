@@ -77,45 +77,46 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-HTML                     12 mins             ██████████░░░░░░░░░░░░░░░   38.51 % 
-Lua                      7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Bash                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Desktop file             26 mins             ██████████░░░░░░░░░░░░░░░   41.74 % 
+HTML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 编辑器: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-paper                    16 mins             ████████████░░░░░░░░░░░░░   49.41 % 
-pdch                     9 mins              ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-noctalia-plugins         7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+pdch                     41 mins             ████████████████░░░░░░░░░   64.60 % 
+paper                    20 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
+noctalia-plugins         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+实验                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 操作系统: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 1 hr (93.78%)
 
-✍️ 166 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 20 lines written by AI, 59 lines written by hand (25.32% AI-written)
 
-🔤 295,058 Input Tokens, 39,447 Output Tokens
+🔤 179,489 Input Tokens, 83,221 Output Tokens
 
-💵 $24.02 Estimated AI Cost This Week
+💵 $25.91 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-Deepseek                 192 lines           █████████████████████████   100.00 % 
+Deepseek                 47 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 786 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.32% of written lines came from AI
+📄 Detailed Prompter — average 1,272 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 55.66% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -135,5 +136,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 20:35:33 UTC
+ Last Updated on 20/08/2026 20:36:02 UTC
 <!--END_SECTION:waka-->
