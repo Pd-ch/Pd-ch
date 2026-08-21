@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
 
@@ -77,46 +77,48 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Desktop file             26 mins             ██████████░░░░░░░░░░░░░░░   41.74 % 
-HTML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Desktop file             26 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
+Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+HTML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-pdch                     41 mins             ████████████████░░░░░░░░░   64.60 % 
-paper                    20 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
-noctalia-plugins         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-实验                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+pdch                     41 mins             ██████████████░░░░░░░░░░░   54.59 % 
+paper                    20 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+ZigGPU-Viz               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+doc                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+noctalia-plugins         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 💻 操作系统: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (93.78%)
+⏱ AI Coding Time: 1 hr 9 mins (91.43%)
 
-✍️ 20 lines written by AI, 59 lines written by hand (25.32% AI-written)
+✍️ 272 lines written by AI, 310 lines written by hand (46.74% AI-written)
 
-🔤 179,489 Input Tokens, 83,221 Output Tokens
+🔤 230,985 Input Tokens, 83,542 Output Tokens
 
-💵 $25.91 Estimated AI Cost This Week
+💵 $26.07 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-Deepseek                 47 lines            █████████████████████████   100.00 % 
+Github-Copilot           252 lines           █████████████████████░░░░   84.28 % 
+Deepseek                 47 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.32% of written lines came from AI
-📄 Detailed Prompter — average 1,272 characters per prompt
+⚖️ Balanced with AI — 46.74% of written lines came from AI
+📄 Detailed Prompter — average 1,019 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 55.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.9% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -136,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 20:36:02 UTC
+ Last Updated on 21/08/2026 20:32:23 UTC
 <!--END_SECTION:waka-->
