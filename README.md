@@ -77,19 +77,19 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Desktop file             26 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-INI                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Desktop file             26 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+INI                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 🔥 编辑器: 
 VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-pdch                     1 hr 15 mins        ████████████████████░░░░░   81.09 % 
+pdch                     1 hr 15 mins        ████████████████████░░░░░   81.14 % 
 ZigGPU-Viz               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-paper                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+paper                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 doc                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
@@ -100,7 +100,7 @@ Linux                    1 hr 33 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (92.92%)
+⏱ AI Coding Time: 1 hr 26 mins (92.97%)
 
 ✍️ 323 lines written by AI, 310 lines written by hand (51.03% AI-written)
 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 20:30:21 UTC
+ Last Updated on 23/08/2026 20:30:49 UTC
 <!--END_SECTION:waka-->
