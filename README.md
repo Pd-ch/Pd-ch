@@ -42,7 +42,7 @@ Editor  : VS Code (Remote-SSH)
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 15 个贡献，在 2026 年
+> 🏆 16 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -77,58 +77,50 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Desktop file             26 mins             ██████████████░░░░░░░░░░░   56.31 % 
-Markdown                 15 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-KDL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 11 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-pdch                     32 mins             █████████████████░░░░░░░░   66.87 % 
-ZigGPU-Viz               8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-paper                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-doc                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-实验                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+ZigGPU-Viz               8 mins              █████████████████░░░░░░░░   68.82 % 
+doc                      3 mins              ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+paper                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 操作系统: 
-Linux                    47 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (86.32%)
+⏱ AI Coding Time: 9 mins (78.62%)
 
-✍️ 265 lines written by AI, 310 lines written by hand (46.09% AI-written)
+✍️ 252 lines written by AI, 251 lines written by hand (50.1% AI-written)
 
-🔤 176,298 Input Tokens, 59,897 Output Tokens
+🔤 51,496 Input Tokens, 321 Output Tokens
 
-💵 $19.47 Estimated AI Cost This Week
+💵 $0.16 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Github-Copilot           252 lines           ████████████████████████░   94.74 % 
-Deepseek                 14 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           252 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.09% of written lines came from AI
-📄 Detailed Prompter — average 794 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 53.82% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.1% of written lines came from AI
+📝 Concise Prompter — average 4 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 49.9% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
 
 ```text
-C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -138,5 +130,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 23:15:18 UTC
+ Last Updated on 28/08/2026 04:10:10 UTC
 <!--END_SECTION:waka-->
