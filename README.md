@@ -77,40 +77,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 11 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-ZigGPU-Viz               8 mins              █████████████████░░░░░░░░   68.82 % 
-doc                      3 mins              ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-paper                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (78.62%)
-
-✍️ 252 lines written by AI, 251 lines written by hand (50.1% AI-written)
-
-🔤 51,496 Input Tokens, 321 Output Tokens
-
-💵 $0.16 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Github-Copilot           252 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.1% of written lines came from AI
-📝 Concise Prompter — average 4 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 49.9% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 C++** 
@@ -130,5 +112,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 04:10:10 UTC
+ Last Updated on 29/08/2026 02:47:05 UTC
 <!--END_SECTION:waka-->
