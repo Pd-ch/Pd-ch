@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-159%20hrs%2027%20mins-blue?style=flat)
 
@@ -77,18 +77,18 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 11 mins             ████████████████████████░   96.98 % 
-Zig                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 11 mins             █████████████████████░░░░   82.40 % 
+Zig                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 
 🔥 编辑器: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-ZigGPU-Viz               11 mins             ████████████████████████░   96.98 % 
-temp                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+ZigGPU-Viz               11 mins             █████████████████████░░░░   82.40 % 
+temp                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 
 💻 操作系统: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,5 +114,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 22:33:50 UTC
+ Last Updated on 30/08/2026 22:37:33 UTC
 <!--END_SECTION:waka-->
