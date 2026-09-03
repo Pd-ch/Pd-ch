@@ -53,21 +53,21 @@ Editor  : VS Code (Remote-SSH)
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-🌆 白天                     26 commits          ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌃 傍晚                     21 commits          ████████░░░░░░░░░░░░░░░░░   31.34 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌞 早晨                     15 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌆 白天                     27 commits          ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌃 傍晚                     21 commits          ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      19 commits          ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-星期三                      22 commits          ████████░░░░░░░░░░░░░░░░░   32.84 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+星期一                      19 commits          ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+星期二                      3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+星期三                      24 commits          █████████░░░░░░░░░░░░░░░░   34.78 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 ```
 
 
@@ -77,24 +77,43 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 11 mins             █████████████████████░░░░   82.40 % 
-Zig                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Other                    14 mins             █████████████░░░░░░░░░░░░   52.08 % 
+Markdown                 11 mins             ██████████░░░░░░░░░░░░░░░   39.49 % 
+Zig                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 编辑器: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-ZigGPU-Viz               11 mins             █████████████████████░░░░   82.40 % 
-temp                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+fcitx5                   12 mins             ███████████░░░░░░░░░░░░░░   44.23 % 
+ZigGPU-Viz               11 mins             ██████████░░░░░░░░░░░░░░░   39.49 % 
+temp                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+NyxNiri                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 
 💻 操作系统: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (45.96%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 43,568 Input Tokens, 17,868 Output Tokens
+
+💵 $4.92 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 27 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -114,5 +133,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 22:30:48 UTC
+ Last Updated on 03/09/2026 22:28:49 UTC
 <!--END_SECTION:waka-->
