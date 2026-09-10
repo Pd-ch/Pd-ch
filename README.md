@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
@@ -77,48 +77,48 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Python                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-KDL                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Zig                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Markdown                 4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Python                   2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+KDL                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Zig                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 编辑器: 
-VS Code                  14 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-mcagent                  3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-pdch                     2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-code                     2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-docs                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-cuemusic                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+mcagent                  3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+pdch                     3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+code                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+docs                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+cuemusic                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 操作系统: 
-Linux                    14 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 3 mins (89.36%)
+⏱ AI Coding Time: 13 hrs 20 mins (89.66%)
 
-✍️ 5,175 lines written by AI, 1,030 lines written by hand (83.4% AI-written)
+✍️ 5,190 lines written by AI, 1,045 lines written by hand (83.24% AI-written)
 
-🔤 5,794,899 Input Tokens, 283,355 Output Tokens
+🔤 5,962,797 Input Tokens, 339,005 Output Tokens
 
-💵 $109.77 Estimated AI Cost This Week
+💵 $144.58 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 185 AI Prompts
+🧠 27 AI Sessions, 192 AI Prompts
 
-Github-Copilot           5,400 lines         ████████████████████████░   97.02 % 
-Deepseek                 166 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           5,400 lines         ████████████████████████░   96.74 % 
+Deepseek                 166 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Opencode-Cli             16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.4% of written lines came from AI
-📄 Detailed Prompter — average 641 characters per prompt
+🤖 AI-Driven — 83.24% of written lines came from AI
+📄 Detailed Prompter — average 619 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 19.16% of changed lines were hand-edited
+🚀 High AI Trust — 19.28% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 22:25:14 UTC
+ Last Updated on 10/09/2026 22:24:57 UTC
 <!--END_SECTION:waka-->
