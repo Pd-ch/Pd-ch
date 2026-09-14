@@ -42,11 +42,11 @@ Editor  : VS Code (Remote-SSH)
 
 > 📦  使用了 ? GitHub 存储空间 
  > 
-> 🏆 16 个贡献，在 2026 年
+> 🏆 23 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
-> 📜 16 个公共仓库 
+> 📜 18 个公共仓库 
  > 
 > 🔑 0 个私人仓库 
  > 
@@ -77,58 +77,58 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-KDL                      1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Zig                      1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Other                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+KDL                      1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   31.55 % 
+JSON                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Other                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Zig                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 编辑器: 
-VS Code                  6 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-pdch                     3 hrs 37 mins       ██████████████░░░░░░░░░░░   55.59 % 
-cuemusic                 1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-niri                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-nvim                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-src                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+pdch                     3 hrs               █████████████████░░░░░░░░   69.03 % 
+niri                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+cuemusic                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+src                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+scripts                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 操作系统: 
-Linux                    6 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (92.46%)
+⏱ AI Coding Time: 4 hrs 1 min (92.35%)
 
-✍️ 230 lines written by AI, 210 lines written by hand (52.27% AI-written)
+✍️ 207 lines written by AI, 195 lines written by hand (51.49% AI-written)
 
-🔤 1,743,362 Input Tokens, 369,167 Output Tokens
+🔤 1,325,665 Input Tokens, 273,015 Output Tokens
 
-💵 $142.86 Estimated AI Cost This Week
+💵 $114.16 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 79 AI Prompts
+🧠 12 AI Sessions, 57 AI Prompts
 
-Deepseek                 180 lines           █████████████████░░░░░░░░   68.70 % 
-Github-Copilot           66 lines            ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Opencode-Cli             16 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Deepseek                 154 lines           ████████████████░░░░░░░░░   65.25 % 
+Github-Copilot           66 lines            ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Opencode-Cli             16 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.27% of written lines came from AI
-📝 Concise Prompter — average 178 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.06% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.49% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 64.24% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
 
 ```text
-C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 22:18:01 UTC
+ Last Updated on 14/09/2026 23:02:36 UTC
 <!--END_SECTION:waka-->
