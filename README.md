@@ -32,11 +32,11 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -77,48 +77,47 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
-JSON                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Lua                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Zig                      2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
+Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Lua                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 
 🔥 编辑器: 
-VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cuemusic                 2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-pdch                     1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-src                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-tmp                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-xiaomipad6pro            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+cuemusic                 2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
+pdch                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+src                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+tmp                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+xiaomipad6pro            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 操作系统: 
-Linux                    5 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 39 mins (68.53%)
+⏱ AI Coding Time: 3 hrs 4 mins (67.11%)
 
-✍️ 49 lines written by AI, 317 lines written by hand (13.39% AI-written)
+✍️ 48 lines written by AI, 345 lines written by hand (12.21% AI-written)
 
-🔤 431,873 Input Tokens, 197,307 Output Tokens
+🔤 382,838 Input Tokens, 171,431 Output Tokens
 
-💵 $128.32 Estimated AI Cost This Week
+💵 $124.34 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 47 AI Prompts
+🧠 12 AI Sessions, 36 AI Prompts
 
-Deepseek                 33 lines            ████████████████░░░░░░░░░   66.00 % 
-Opencode-Cli             16 lines            ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Github-Copilot           1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Deepseek                 33 lines            █████████████████░░░░░░░░   67.35 % 
+Opencode-Cli             16 lines            ████████░░░░░░░░░░░░░░░░░   32.65 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.39% of written lines came from AI
-📝 Concise Prompter — average 30 characters per prompt
+🧑‍💻 Mostly Hands-On — 12.21% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 89.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.74% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -138,5 +137,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 22:49:27 UTC
+ Last Updated on 16/09/2026 22:49:44 UTC
 <!--END_SECTION:waka-->
