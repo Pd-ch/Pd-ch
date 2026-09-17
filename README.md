@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
 
@@ -50,24 +50,24 @@ Editor  : VS Code (Remote-SSH)
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是早鸟 🐤** 
+**我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     10 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 白天                     22 commits          █████████░░░░░░░░░░░░░░░░   34.92 % 
-🌃 傍晚                     25 commits          ██████████░░░░░░░░░░░░░░░   39.68 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌞 早晨                     10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌆 白天                     22 commits          ████████░░░░░░░░░░░░░░░░░   32.84 % 
+🌃 傍晚                     29 commits          ███████████░░░░░░░░░░░░░░   43.28 % 
+🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      21 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-星期二                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期三                      14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+星期一                      23 commits          █████████░░░░░░░░░░░░░░░░   34.33 % 
+星期二                      7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+星期三                      14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 ```
 
 
@@ -77,47 +77,47 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Zig                      2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Lua                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Zig                      2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
+Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Bash                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Lua                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-cuemusic                 2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
-pdch                     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-src                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-tmp                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-xiaomipad6pro            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+cuemusic                 2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+pdch                     1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+src                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+tmp                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+xiaomipad6pro            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 操作系统: 
-Linux                    4 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (67.11%)
+⏱ AI Coding Time: 3 hrs 13 mins (66.31%)
 
-✍️ 48 lines written by AI, 345 lines written by hand (12.21% AI-written)
+✍️ 54 lines written by AI, 330 lines written by hand (14.06% AI-written)
 
-🔤 382,838 Input Tokens, 171,431 Output Tokens
+🔤 285,188 Input Tokens, 213,295 Output Tokens
 
-💵 $124.34 Estimated AI Cost This Week
+💵 $126.45 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 36 AI Prompts
+🧠 12 AI Sessions, 33 AI Prompts
 
-Deepseek                 33 lines            █████████████████░░░░░░░░   67.35 % 
-Opencode-Cli             16 lines            ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Deepseek                 66 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.21% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
+🧑‍💻 Mostly Hands-On — 14.06% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 88.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.9% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -137,5 +137,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 22:49:44 UTC
+ Last Updated on 17/09/2026 22:47:13 UTC
 <!--END_SECTION:waka-->
