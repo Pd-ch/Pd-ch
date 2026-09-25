@@ -32,7 +32,7 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2041%20mins-blue?style=flat)
 
@@ -77,42 +77,42 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   7 hrs 17 mins       ██████████████░░░░░░░░░░░   56.27 % 
-Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-TOML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Python                   6 hrs 40 mins       ██████████████░░░░░░░░░░░   54.28 % 
+Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+TOML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 41 mins      █████████████████████░░░░   82.52 % 
-Opencode Cli             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Claude Code              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+VS Code                  10 hrs 1 min        ████████████████████░░░░░   81.56 % 
+Opencode Cli             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Claude Code              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 项目: 
-mcagent                  6 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.39 % 
-relearn-dl               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-pdch                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-E题                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-jax                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+mcagent                  6 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.99 % 
+relearn-dl               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+E题                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+pdch                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+mcenv                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 操作系统: 
-Linux                    12 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 37 mins (74.29%)
+⏱ AI Coding Time: 9 hrs 13 mins (75.1%)
 
-✍️ 10,850 lines written by AI, 5,838 lines written by hand (65.02% AI-written)
+✍️ 10,850 lines written by AI, 5,212 lines written by hand (67.55% AI-written)
 
-🔤 5,315,740 Input Tokens, 359,239 Output Tokens
+🔤 5,189,653 Input Tokens, 340,041 Output Tokens
 
-💵 $94.48 Estimated AI Cost This Week
+💵 $90.43 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 145 AI Prompts
+🧠 27 AI Sessions, 139 AI Prompts
 
 Opus                     5,125 lines         ███████████░░░░░░░░░░░░░░   43.86 % 
 Github-Copilot           3,832 lines         ████████░░░░░░░░░░░░░░░░░   32.79 % 
@@ -121,10 +121,10 @@ Deepseek                 1,192 lines         ███░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.02% of written lines came from AI
-📝 Concise Prompter — average 354 characters per prompt
+🤖 AI-Driven — 67.55% of written lines came from AI
+📝 Concise Prompter — average 368 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 46.15% of changed lines were hand-edited
+🚀 High AI Trust — 42.85% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -144,5 +144,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 23:08:44 UTC
+ Last Updated on 25/09/2026 23:13:09 UTC
 <!--END_SECTION:waka-->
