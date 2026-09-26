@@ -53,21 +53,21 @@ Editor  : VS Code (Remote-SSH)
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-🌆 白天                     22 commits          ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-🌃 傍晚                     37 commits          ████████████░░░░░░░░░░░░░   49.33 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌞 早晨                     14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+🌆 白天                     26 commits          ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌃 傍晚                     37 commits          ███████████░░░░░░░░░░░░░░   44.58 % 
+🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 ```
 📅 **星期一 时的我最有干劲** 
 
 ```text
-星期一                      27 commits          █████████░░░░░░░░░░░░░░░░   36.00 % 
-星期二                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-星期三                      14 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-星期日                      11 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+星期一                      27 commits          ████████░░░░░░░░░░░░░░░░░   32.53 % 
+星期二                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+星期三                      22 commits          ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+星期五                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+星期六                      5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+星期日                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 ```
 
 
@@ -77,54 +77,54 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   6 hrs 40 mins       ██████████████░░░░░░░░░░░   54.28 % 
-Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-TOML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Python                   6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
+Markdown                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+TOML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 编辑器: 
-VS Code                  10 hrs 1 min        ████████████████████░░░░░   81.56 % 
-Opencode Cli             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Claude Code              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+VS Code                  12 hrs 20 mins      █████████████████████░░░░   84.49 % 
+Opencode Cli             1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Claude Code              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Codex CLI                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 项目: 
-mcagent                  6 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.99 % 
-relearn-dl               2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-E题                       43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-pdch                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-mcenv                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+mcagent                  5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
+relearn-dl               2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+18pmcamport217max        2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+pdch                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+E题                       1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 操作系统: 
-Linux                    12 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 13 mins (75.1%)
+⏱ AI Coding Time: 11 hrs 13 mins (76.81%)
 
-✍️ 10,850 lines written by AI, 5,212 lines written by hand (67.55% AI-written)
+✍️ 11,391 lines written by AI, 5,139 lines written by hand (68.91% AI-written)
 
-🔤 5,189,653 Input Tokens, 340,041 Output Tokens
+🔤 6,449,232 Input Tokens, 749,512 Output Tokens
 
-💵 $90.43 Estimated AI Cost This Week
+💵 $290.37 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 139 AI Prompts
+🧠 26 AI Sessions, 160 AI Prompts
 
-Opus                     5,125 lines         ███████████░░░░░░░░░░░░░░   43.86 % 
-Github-Copilot           3,832 lines         ████████░░░░░░░░░░░░░░░░░   32.79 % 
-GPT                      1,537 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Deepseek                 1,192 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Opus                     5,125 lines         ██████████░░░░░░░░░░░░░░░   41.92 % 
+Github-Copilot           3,832 lines         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Deepseek                 1,733 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+GPT                      1,537 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.55% of written lines came from AI
-📝 Concise Prompter — average 368 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 42.85% of changed lines were hand-edited
+🤖 AI-Driven — 68.91% of written lines came from AI
+📝 Concise Prompter — average 301 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 41.32% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -144,5 +144,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 23:13:09 UTC
+ Last Updated on 26/09/2026 22:37:22 UTC
 <!--END_SECTION:waka-->
