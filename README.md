@@ -32,9 +32,9 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-8-blue?style=flat)
 
@@ -50,24 +50,24 @@ Editor  : VS Code (Remote-SSH)
  > 
 > 🔑 0 个私人仓库 
  > 
-**我是夜猫 🦉** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-🌆 白天                     27 commits          ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌃 傍晚                     37 commits          ███████████░░░░░░░░░░░░░░   43.53 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+🌞 早晨                     17 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+🌆 白天                     29 commits          ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌃 傍晚                     37 commits          ██████████░░░░░░░░░░░░░░░   41.57 % 
+🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
-📅 **星期一 时的我最有干劲** 
+📅 **星期三 时的我最有干劲** 
 
 ```text
-星期一                      27 commits          ████████░░░░░░░░░░░░░░░░░   31.76 % 
-星期二                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-星期三                      24 commits          ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-星期五                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-星期六                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-星期日                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+星期一                      27 commits          ████████░░░░░░░░░░░░░░░░░   30.34 % 
+星期二                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+星期三                      28 commits          ████████░░░░░░░░░░░░░░░░░   31.46 % 
+星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+星期五                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+星期六                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+星期日                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 
 
@@ -77,54 +77,54 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 2 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.01 % 
-Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-JSON                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Markdown                 2 hrs 40 mins       █████████████░░░░░░░░░░░░   50.92 % 
+JSON                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Text                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 编辑器: 
-VS Code                  3 hrs 14 mins       ██████████████░░░░░░░░░░░   57.09 % 
-Codex CLI                1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Copilot CLI              50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Codex Vscode             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+VS Code                  2 hrs 48 mins       █████████████░░░░░░░░░░░░   53.52 % 
+Codex CLI                1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Copilot CLI              50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Codex Vscode             16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Claude Code              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🐱‍💻 项目: 
-skeleton                 1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   34.35 % 
-explore                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Blackbox                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-cuemusic                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+skeleton                 1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   37.21 % 
+explore                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Blackbox                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Unknown Project          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+research-b-idea          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 操作系统: 
-Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (89.53%)
+⏱ AI Coding Time: 4 hrs 53 mins (93.24%)
 
-✍️ 852 lines written by AI, 57 lines written by hand (93.73% AI-written)
+✍️ 846 lines written by AI, 56 lines written by hand (93.79% AI-written)
 
-🔤 7,576,900 Input Tokens, 213,656 Output Tokens
+🔤 7,541,287 Input Tokens, 197,195 Output Tokens
 
-💵 $51.75 Estimated AI Cost This Week
+💵 $46.80 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 71 AI Prompts
+🧠 24 AI Sessions, 68 AI Prompts
 
-Opus                     628 lines           ██████████████████░░░░░░░   73.71 % 
-GPT                      132 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Github-Copilot           56 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Github-Copilot-Cli       30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Deepseek                 6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Opus                     628 lines           ███████████████████░░░░░░   74.23 % 
+GPT                      132 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Github-Copilot           56 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Github-Copilot-Cli       30 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.73% of written lines came from AI
-📝 Concise Prompter — average 314 characters per prompt
+🤖 AI-Driven — 93.79% of written lines came from AI
+📝 Concise Prompter — average 328 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.68% of changed lines were hand-edited
+🚀 High AI Trust — 6.62% of changed lines were hand-edited
 ```
 
 **我最常使用 C++** 
@@ -144,5 +144,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 22:48:23 UTC
+ Last Updated on 04/10/2026 22:58:01 UTC
 <!--END_SECTION:waka-->
