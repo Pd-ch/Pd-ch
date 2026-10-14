@@ -77,43 +77,44 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 23 mins       ██████████████░░░░░░░░░░░   55.50 % 
-Bash                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Python                   2 hrs 23 mins       █████████████░░░░░░░░░░░░   51.96 % 
+Other                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Bash                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 编辑器: 
-Opencode Cli             2 hrs 43 mins       ████████████████░░░░░░░░░   63.53 % 
-VS Code                  1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Copilot CLI              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Opencode Cli             2 hrs 43 mins       ███████████████░░░░░░░░░░   59.48 % 
+VS Code                  1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Copilot CLI              18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Codex Vscode             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🐱‍💻 项目: 
-mcagent                  2 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.31 % 
-pdch                     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-asusctl                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-learn                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Blackbox                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+mcagent                  2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.29 % 
+pdch                     1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+asusctl                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+ho                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+learn                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 操作系统: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (99.89%)
+⏱ AI Coding Time: 4 hrs 35 mins (99.9%)
 
 ✍️ 2,272 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,707,217 Input Tokens, 411,315 Output Tokens
+🔤 1,808,596 Input Tokens, 418,271 Output Tokens
 
-💵 $96.10 Estimated AI Cost This Week
+💵 $92.71 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 52 AI Prompts
+🧠 14 AI Sessions, 57 AI Prompts
 
-DeepSeek                 1,279 lines         ██████████████░░░░░░░░░░░   54.03 % 
-Opencodego:Deepseek      1,014 lines         ███████████░░░░░░░░░░░░░░   42.84 % 
+DeepSeek                 1,274 lines         █████████████░░░░░░░░░░░░   53.94 % 
+Opencodego:Deepseek      1,014 lines         ███████████░░░░░░░░░░░░░░   42.93 % 
 Haiku                    74 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -142,5 +143,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:41:31 UTC
+ Last Updated on 14/10/2026 23:06:10 UTC
 <!--END_SECTION:waka-->
