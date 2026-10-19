@@ -32,11 +32,11 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-206%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -77,41 +77,47 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Other                    2 hrs 7 mins        ████████████████████████░   95.32 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Other                    2 hrs 40 mins       █████████████████████░░░░   84.12 % 
+Python                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 编辑器: 
-Opencode Cli             1 hr 32 mins        █████████████████░░░░░░░░   69.05 % 
-VS Code                  41 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Opencode Cli             2 hrs 11 mins       █████████████████░░░░░░░░   68.88 % 
+VS Code                  50 mins             ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Codex Vscode             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🐱‍💻 项目: 
-pdch                     2 hrs 7 mins        ████████████████████████░   95.32 % 
-explore                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+pdch                     2 hrs 55 mins       ███████████████████████░░   92.09 % 
+a-5                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+explore                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 操作系统: 
-Linux                    2 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 10 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 793 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 885,767 Input Tokens, 139,734 Output Tokens
+🔤 1,234,688 Input Tokens, 238,433 Output Tokens
 
-💵 $28.97 Estimated AI Cost This Week
+💵 $48.43 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 47 AI Prompts
+🧠 11 AI Sessions, 67 AI Prompts
 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 826 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 36 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.73% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -131,5 +137,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 22:20:53 UTC
+ Last Updated on 19/10/2026 23:30:54 UTC
 <!--END_SECTION:waka-->
