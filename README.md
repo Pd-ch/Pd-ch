@@ -77,39 +77,39 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.49 % 
-Other                    2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Markdown                 2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.07 % 
+Markdown                 2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Other                    2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 编辑器: 
-Opencode Cli             5 hrs 31 mins       ███████████████████░░░░░░   74.47 % 
-VS Code                  1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Opencode Cli             5 hrs 26 mins       ███████████████████░░░░░░   74.64 % 
+VS Code                  1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🐱‍💻 项目: 
-memspec                  4 hrs 22 mins       ███████████████░░░░░░░░░░   59.00 % 
-pdch                     2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-explore                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-a-5                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+memspec                  4 hrs 22 mins       ███████████████░░░░░░░░░░   59.96 % 
+pdch                     2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
+explore                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+a-5                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 操作系统: 
-Linux                    7 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (98.62%)
+⏱ AI Coding Time: 7 hrs 11 mins (98.6%)
 
 ✍️ 3,027 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,624,302 Input Tokens, 443,764 Output Tokens
+🔤 3,603,658 Input Tokens, 434,337 Output Tokens
 
-💵 $225.03 Estimated AI Cost This Week
+💵 $224.97 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 84 AI Prompts
+🧠 11 AI Sessions, 80 AI Prompts
 
 DeepSeek                 3,060 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -139,5 +139,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 23:10:05 UTC
+ Last Updated on 23/10/2026 23:00:14 UTC
 <!--END_SECTION:waka-->
