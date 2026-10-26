@@ -36,7 +36,7 @@ Editor  : VS Code (Remote-SSH)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-1-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
@@ -77,48 +77,48 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Python                   5 hrs 44 mins       █████████████░░░░░░░░░░░░   52.33 % 
-Markdown                 4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 3 hrs 17 mins       █████████████░░░░░░░░░░░░   51.55 % 
+Python                   2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
+Rust                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 编辑器: 
-Opencode Cli             9 hrs 10 mins       █████████████████████░░░░   83.75 % 
-VS Code                  1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Opencode Cli             5 hrs 5 mins        ████████████████████░░░░░   79.57 % 
+VS Code                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 
 🐱‍💻 项目: 
-memspec                  9 hrs 34 mins       ██████████████████████░░░   87.41 % 
-pdch                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-xwayland-satellite       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-explore                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+memspec                  5 hrs 56 mins       ███████████████████████░░   92.94 % 
+xwayland-satellite       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+explore                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+pdch                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 操作系统: 
-Linux                    10 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (98.84%)
+⏱ AI Coding Time: 6 hrs 15 mins (98.0%)
 
-✍️ 12,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,010 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,375,856 Input Tokens, 875,355 Output Tokens
+🔤 5,437,758 Input Tokens, 443,313 Output Tokens
 
-💵 $854.20 Estimated AI Cost This Week
+💵 $406.58 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 87 AI Prompts
+🧠 6 AI Sessions, 47 AI Prompts
 
-DeepSeek                 12,377 lines        █████████████████████████   100.00 % 
+DeepSeek                 4,010 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+📝 Concise Prompter — average 192 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.82% of changed lines were hand-edited
 ```
 
 **我最常使用 Python** 
@@ -138,5 +138,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 22:25:09 UTC
+ Last Updated on 26/10/2026 23:42:03 UTC
 <!--END_SECTION:waka-->
