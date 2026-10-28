@@ -77,43 +77,22 @@ Editor  : VS Code (Remote-SSH)
 🕑︎ 时区: Asia/Shanghai
 
 💬 编程语言: 
-Markdown                 2 hrs 15 mins       █████████████░░░░░░░░░░░░   50.33 % 
-Python                   2 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.56 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 1 min               █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Opencode Cli             3 hrs 33 mins       ████████████████████░░░░░   78.91 % 
-VS Code                  56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-memspec                  4 hrs 22 mins       ████████████████████████░   97.15 % 
-explore                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+explore                  1 min               █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Linux                    4 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 22 mins (97.16%)
-
-✍️ 2,234 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,463,904 Input Tokens, 232,122 Output Tokens
-
-💵 $192.84 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 23 AI Prompts
-
-DeepSeek                 2,234 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 1.46% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 Python** 
@@ -133,5 +112,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 23:40:09 UTC
+ Last Updated on 28/10/2026 23:58:05 UTC
 <!--END_SECTION:waka-->
