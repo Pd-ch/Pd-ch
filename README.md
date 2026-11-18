@@ -32,45 +32,6 @@ Editor  : VS Code (Remote-SSH)
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2010%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2053%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-4-blue?style=flat)
-
-**🐱 我的 GitHub 数据** 
-
-> 📦  使用了 38.4 kB GitHub 存储空间 
- > 
-> 🏆 27 个贡献，在 2026 年
- > 
-> 💼 开放招聘
- > 
-> 📜 18 个公共仓库 
- > 
-> 🔑 4 个私人仓库 
- > 
-**我是早鸟 🐤** 
-
-```text
-🌞 早晨                     16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-🌆 白天                     28 commits          ████████░░░░░░░░░░░░░░░░░   32.18 % 
-🌃 傍晚                     37 commits          ███████████░░░░░░░░░░░░░░   42.53 % 
-🌙 晚上                     6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-```
-📅 **星期一 时的我最有干劲** 
-
-```text
-星期一                      27 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
-星期二                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-星期三                      26 commits          ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-星期四                      2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-星期五                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-星期六                      5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-星期日                      11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-```
-
-
 📊 **本周消耗时间** 
 
 ```text
@@ -89,12 +50,6 @@ Editor  : VS Code (Remote-SSH)
 本周没有记录到任何活动
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **我最常使用 Python** 
 
 ```text
@@ -107,10 +62,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
-**时间线**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Pd-ch/Pd-ch/main/assets/bar_graph.png)
-
-
- Last Updated on 18/11/2026 15:17:42 UTC
+ Last Updated on 18/11/2026 15:26:47 UTC
 <!--END_SECTION:waka-->
